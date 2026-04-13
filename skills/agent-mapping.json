@@ -1,0 +1,15 @@
+{
+  "kai": ["delegating-tasks", "summarizing-progress"],
+  "maverick": ["conducting-outreach", "qualifying-leads"],
+  "watson": ["reviewing-quality", "auditing-skill-security"],
+  "houdini": ["creating-social-content", "copywriting", "planning-content"],
+  "jarvis": ["designing-architecture", "building-integrations"],
+  "leonardo": ["designing-products"],
+  "alfred": ["automating-operations"],
+  "sherlock": ["researching-skills"],
+  "finn": ["planning-finances"],
+  "tank": ["managing-skills"],
+  "scotty": ["managing-delivery"],
+  "sam": ["managing-customer-success"],
+  "dewey": ["managing-knowledge"]
+}
